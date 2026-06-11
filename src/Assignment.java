@@ -6,6 +6,6 @@ public class Assignment {
         System.out.println("*      *************      *");
         System.out.println("*****  *           *  *****");
         System.out.println("*   *  *           *  *   *");
-        System.out.println("*   *  *           *  *   *")
+        System.out.println("*   *  *           *  *   *");
     }
 }
